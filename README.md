@@ -1,4 +1,4 @@
-# Android device tree for redmi ares (ares)
+# Android device tree for redmi ares
 
 ```
 #
